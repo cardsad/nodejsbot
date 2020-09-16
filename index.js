@@ -6,7 +6,7 @@ require("moment-duration-format");
 const welcomeChannelName = "hello";
 const byeChannelName = "bye";
 const welcomeChannelComment = "Welcome";
-const byeChannelComment = "Goodvye";
+const byeChannelComment = "Goodbye";
 
 client.on('ready', () => {
   console.log('켰다.');
