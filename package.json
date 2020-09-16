@@ -1,12 +1,24 @@
 {
   "name": "bot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "r": "node index.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardsad/nodejsbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardsad/nodejsbot/issues"
+  },
+  "homepage": "https://github.com/cardsad/nodejsbot#readme",
+  "description": ""
 }
